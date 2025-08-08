@@ -21,3 +21,6 @@ my_compiler-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Compiled file
+my_compiler
